@@ -1,0 +1,266 @@
+Change Component Comment : Designator=D1 Old Comment=Comment New Comment=LDS-AA12RI
+Change component parameters: Designator = "D1" ("D1"); Footprint = "LDS-AA12RI"; UniqueID = "\WEJAUORH" ("\WEJAUORH")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/datasheet/2/244/LUMXD00050_236-2551070.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "67-1486-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D2(LDS-AA12RI)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/datasheet/2/244/LUMXD00050_236-2551070.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "67-1486-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D3(LDS-AA12RI)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/datasheet/2/244/LUMXD00050_236-2551070.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "67-1486-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D4(LDS-AA12RI)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/datasheet/2/244/LUMXD00050_236-2551070.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "67-1486-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D5(LDS-AA12RI)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/datasheet/2/244/LUMXD00050_236-2551070.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "67-1486-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D6(LDS-AA12RI)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/datasheet/2/244/LUMXD00050_236-2551070.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "67-1486-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D7(LDS-AA12RI)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/datasheet/2/244/LUMXD00050_236-2551070.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "67-1486-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D8(LDS-AA12RI)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/datasheet/2/244/LUMXD00050_236-2551070.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "67-1486-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D9(LDS-AA12RI)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/datasheet/2/244/LUMXD00050_236-2551070.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "67-1486-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D10(LDS-AA12RI)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/datasheet/2/244/LUMXD00050_236-2551070.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "67-1486-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D11(LDS-AA12RI)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/datasheet/2/244/LUMXD00050_236-2551070.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "67-1486-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D12(LDS-AA12RI)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/datasheet/2/244/LUMXD00050_236-2551070.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "67-1486-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D13(LDS-AA12RI)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/datasheet/2/244/LUMXD00050_236-2551070.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "67-1486-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D14(LDS-AA12RI)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/datasheet/2/244/LUMXD00050_236-2551070.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "67-1486-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D15(LDS-AA12RI)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/datasheet/2/244/LUMXD00050_236-2551070.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "67-1486-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D16(LDS-AA12RI)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/datasheet/2/244/LUMXD00050_236-2551070.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "67-1486-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U21(SOT95P280X110-6N)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "595-LMR51625XDDCR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=+8V Pin=D1-3
+Added Pin To Net: NetName=NetD1_4 Pin=D1-4
+Added Pin To Net: NetName=NetD1_5 Pin=D1-5
+Added Pin To Net: NetName=NetD1_6 Pin=D1-6
+Added Pin To Net: NetName=NetD1_7 Pin=D1-7
+Added Pin To Net: NetName=+8V Pin=D1-8
+Added Pin To Net: NetName=NetD1_9 Pin=D1-9
+Added Pin To Net: NetName=NetD1_10 Pin=D1-10
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=+8V Pin=D2-3
+Added Pin To Net: NetName=NetD2_4 Pin=D2-4
+Added Pin To Net: NetName=NetD2_5 Pin=D2-5
+Added Pin To Net: NetName=NetD2_6 Pin=D2-6
+Added Pin To Net: NetName=NetD2_7 Pin=D2-7
+Added Pin To Net: NetName=+8V Pin=D2-8
+Added Pin To Net: NetName=NetD2_9 Pin=D2-9
+Added Pin To Net: NetName=NetD2_10 Pin=D2-10
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=+8V Pin=D3-3
+Added Pin To Net: NetName=NetD3_4 Pin=D3-4
+Added Pin To Net: NetName=NetD3_5 Pin=D3-5
+Added Pin To Net: NetName=NetD3_6 Pin=D3-6
+Added Pin To Net: NetName=NetD3_7 Pin=D3-7
+Added Pin To Net: NetName=+8V Pin=D3-8
+Added Pin To Net: NetName=NetD3_9 Pin=D3-9
+Added Pin To Net: NetName=NetD3_10 Pin=D3-10
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=+8V Pin=D4-3
+Added Pin To Net: NetName=NetD4_4 Pin=D4-4
+Added Pin To Net: NetName=NetD4_5 Pin=D4-5
+Added Pin To Net: NetName=NetD4_6 Pin=D4-6
+Added Pin To Net: NetName=NetD4_7 Pin=D4-7
+Added Pin To Net: NetName=+8V Pin=D4-8
+Added Pin To Net: NetName=NetD4_9 Pin=D4-9
+Added Pin To Net: NetName=NetD4_10 Pin=D4-10
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=+8V Pin=D5-3
+Added Pin To Net: NetName=NetD5_4 Pin=D5-4
+Added Pin To Net: NetName=NetD5_5 Pin=D5-5
+Added Pin To Net: NetName=NetD5_6 Pin=D5-6
+Added Pin To Net: NetName=NetD5_7 Pin=D5-7
+Added Pin To Net: NetName=+8V Pin=D5-8
+Added Pin To Net: NetName=NetD5_9 Pin=D5-9
+Added Pin To Net: NetName=NetD5_10 Pin=D5-10
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=+8V Pin=D6-3
+Added Pin To Net: NetName=NetD6_4 Pin=D6-4
+Added Pin To Net: NetName=NetD6_5 Pin=D6-5
+Added Pin To Net: NetName=NetD6_6 Pin=D6-6
+Added Pin To Net: NetName=NetD6_7 Pin=D6-7
+Added Pin To Net: NetName=+8V Pin=D6-8
+Added Pin To Net: NetName=NetD6_9 Pin=D6-9
+Added Pin To Net: NetName=NetD6_10 Pin=D6-10
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=+8V Pin=D7-3
+Added Pin To Net: NetName=NetD7_4 Pin=D7-4
+Added Pin To Net: NetName=NetD7_5 Pin=D7-5
+Added Pin To Net: NetName=NetD7_6 Pin=D7-6
+Added Pin To Net: NetName=NetD7_7 Pin=D7-7
+Added Pin To Net: NetName=+8V Pin=D7-8
+Added Pin To Net: NetName=NetD7_9 Pin=D7-9
+Added Pin To Net: NetName=NetD7_10 Pin=D7-10
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=+8V Pin=D8-3
+Added Pin To Net: NetName=NetD8_4 Pin=D8-4
+Added Pin To Net: NetName=NetD8_5 Pin=D8-5
+Added Pin To Net: NetName=NetD8_6 Pin=D8-6
+Added Pin To Net: NetName=NetD8_7 Pin=D8-7
+Added Pin To Net: NetName=+8V Pin=D8-8
+Added Pin To Net: NetName=NetD8_9 Pin=D8-9
+Added Pin To Net: NetName=NetD8_10 Pin=D8-10
+Added Pin To Net: NetName=NetD9_1 Pin=D9-1
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=+8V Pin=D9-3
+Added Pin To Net: NetName=NetD9_4 Pin=D9-4
+Added Pin To Net: NetName=NetD9_5 Pin=D9-5
+Added Pin To Net: NetName=NetD9_6 Pin=D9-6
+Added Pin To Net: NetName=NetD9_7 Pin=D9-7
+Added Pin To Net: NetName=+8V Pin=D9-8
+Added Pin To Net: NetName=NetD9_9 Pin=D9-9
+Added Pin To Net: NetName=NetD9_10 Pin=D9-10
+Added Pin To Net: NetName=NetD10_1 Pin=D10-1
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=+8V Pin=D10-3
+Added Pin To Net: NetName=NetD10_4 Pin=D10-4
+Added Pin To Net: NetName=NetD10_5 Pin=D10-5
+Added Pin To Net: NetName=NetD10_6 Pin=D10-6
+Added Pin To Net: NetName=NetD10_7 Pin=D10-7
+Added Pin To Net: NetName=+8V Pin=D10-8
+Added Pin To Net: NetName=NetD10_9 Pin=D10-9
+Added Pin To Net: NetName=NetD10_10 Pin=D10-10
+Added Pin To Net: NetName=NetD11_1 Pin=D11-1
+Added Pin To Net: NetName=NetD11_2 Pin=D11-2
+Added Pin To Net: NetName=+8V Pin=D11-3
+Added Pin To Net: NetName=NetD11_4 Pin=D11-4
+Added Pin To Net: NetName=NetD11_5 Pin=D11-5
+Added Pin To Net: NetName=NetD11_6 Pin=D11-6
+Added Pin To Net: NetName=NetD11_7 Pin=D11-7
+Added Pin To Net: NetName=+8V Pin=D11-8
+Added Pin To Net: NetName=NetD11_9 Pin=D11-9
+Added Pin To Net: NetName=NetD11_10 Pin=D11-10
+Added Pin To Net: NetName=NetD12_1 Pin=D12-1
+Added Pin To Net: NetName=NetD12_2 Pin=D12-2
+Added Pin To Net: NetName=+8V Pin=D12-3
+Added Pin To Net: NetName=NetD12_4 Pin=D12-4
+Added Pin To Net: NetName=NetD12_5 Pin=D12-5
+Added Pin To Net: NetName=NetD12_6 Pin=D12-6
+Added Pin To Net: NetName=NetD12_7 Pin=D12-7
+Added Pin To Net: NetName=+8V Pin=D12-8
+Added Pin To Net: NetName=NetD12_9 Pin=D12-9
+Added Pin To Net: NetName=NetD12_10 Pin=D12-10
+Added Pin To Net: NetName=NetD13_1 Pin=D13-1
+Added Pin To Net: NetName=NetD13_2 Pin=D13-2
+Added Pin To Net: NetName=+8V Pin=D13-3
+Added Pin To Net: NetName=NetD13_4 Pin=D13-4
+Added Pin To Net: NetName=NetD13_5 Pin=D13-5
+Added Pin To Net: NetName=NetD13_6 Pin=D13-6
+Added Pin To Net: NetName=NetD13_7 Pin=D13-7
+Added Pin To Net: NetName=+8V Pin=D13-8
+Added Pin To Net: NetName=NetD13_9 Pin=D13-9
+Added Pin To Net: NetName=NetD13_10 Pin=D13-10
+Added Pin To Net: NetName=NetD14_1 Pin=D14-1
+Added Pin To Net: NetName=NetD14_2 Pin=D14-2
+Added Pin To Net: NetName=+8V Pin=D14-3
+Added Pin To Net: NetName=NetD14_4 Pin=D14-4
+Added Pin To Net: NetName=NetD14_5 Pin=D14-5
+Added Pin To Net: NetName=NetD14_6 Pin=D14-6
+Added Pin To Net: NetName=NetD14_7 Pin=D14-7
+Added Pin To Net: NetName=+8V Pin=D14-8
+Added Pin To Net: NetName=NetD14_9 Pin=D14-9
+Added Pin To Net: NetName=NetD14_10 Pin=D14-10
+Added Pin To Net: NetName=NetD15_1 Pin=D15-1
+Added Pin To Net: NetName=NetD15_2 Pin=D15-2
+Added Pin To Net: NetName=+8V Pin=D15-3
+Added Pin To Net: NetName=NetD15_4 Pin=D15-4
+Added Pin To Net: NetName=NetD15_5 Pin=D15-5
+Added Pin To Net: NetName=NetD15_6 Pin=D15-6
+Added Pin To Net: NetName=NetD15_7 Pin=D15-7
+Added Pin To Net: NetName=+8V Pin=D15-8
+Added Pin To Net: NetName=NetD15_9 Pin=D15-9
+Added Pin To Net: NetName=NetD15_10 Pin=D15-10
+Added Pin To Net: NetName=NetD16_1 Pin=D16-1
+Added Pin To Net: NetName=NetD16_2 Pin=D16-2
+Added Pin To Net: NetName=+8V Pin=D16-3
+Added Pin To Net: NetName=NetD16_4 Pin=D16-4
+Added Pin To Net: NetName=NetD16_5 Pin=D16-5
+Added Pin To Net: NetName=NetD16_6 Pin=D16-6
+Added Pin To Net: NetName=NetD16_7 Pin=D16-7
+Added Pin To Net: NetName=+8V Pin=D16-8
+Added Pin To Net: NetName=NetD16_9 Pin=D16-9
+Added Pin To Net: NetName=NetD16_10 Pin=D16-10
+Added Pin To Net: NetName=NetR130_1 Pin=U21-1
+Added Pin To Net: NetName=NetR129_1 Pin=U21-2
+Added Pin To Net: NetName=+24V Pin=U21-3
+Added Pin To Net: NetName=GND Pin=U21-4
+Added Pin To Net: NetName=NetC52_1 Pin=U21-5
+Added Pin To Net: NetName=NetC52_2 Pin=U21-6
+Added Member To Class: ClassName=SpaceCountDisplay_LEDs Member=Component D2 LDS-AA12RI
+Added Member To Class: ClassName=SpaceCountDisplay_LEDs Member=Component D3 LDS-AA12RI
+Added Member To Class: ClassName=SpaceCountDisplay_LEDs Member=Component D4 LDS-AA12RI
+Added Member To Class: ClassName=SpaceCountDisplay_LEDs Member=Component D5 LDS-AA12RI
+Added Member To Class: ClassName=SpaceCountDisplay_LEDs Member=Component D6 LDS-AA12RI
+Added Member To Class: ClassName=SpaceCountDisplay_LEDs Member=Component D7 LDS-AA12RI
+Added Member To Class: ClassName=SpaceCountDisplay_LEDs Member=Component D8 LDS-AA12RI
+Added Member To Class: ClassName=SpaceCountDisplay_LEDs Member=Component D9 LDS-AA12RI
+Added Member To Class: ClassName=SpaceCountDisplay_LEDs Member=Component D10 LDS-AA12RI
+Added Member To Class: ClassName=SpaceCountDisplay_LEDs Member=Component D11 LDS-AA12RI
+Added Member To Class: ClassName=SpaceCountDisplay_LEDs Member=Component D12 LDS-AA12RI
+Added Member To Class: ClassName=SpaceCountDisplay_LEDs Member=Component D13 LDS-AA12RI
+Added Member To Class: ClassName=SpaceCountDisplay_LEDs Member=Component D14 LDS-AA12RI
+Added Member To Class: ClassName=SpaceCountDisplay_LEDs Member=Component D15 LDS-AA12RI
+Added Member To Class: ClassName=SpaceCountDisplay_LEDs Member=Component D16 LDS-AA12RI
+Added Member To Class: ClassName=SpaceCountDisplay_Power Member=Component U21 LMR51625XDDCR
